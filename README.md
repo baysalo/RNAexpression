@@ -46,4 +46,4 @@ The script requires the following R packages:
 ## 📄 Citation
 
 If you use this code or data, please cite:
-> **[Baysal]**, et al. (2025). "Bacillus velezensis EU07 suppresses Fusarium graminearum via transcriptomic reprogramming." *.
+> **[Baysal]**, et al. (2026). "Bacillus velezensis EU07 suppresses Fusarium graminearum via transcriptomic reprogramming." *.Submitted article and will be added when published"
