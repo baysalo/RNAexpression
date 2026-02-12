@@ -1,4 +1,4 @@
-# Host-Pathogen Interaction Analysis: Bacterial Antagonism of Fungal Pathogens
+# Host-Pathogen : Bacterial Antagonism of Fungal Pathogens
 
 The analysis integrates **Fungal Transcriptomics (RNA-seq)** and **Bacterial Genomics** to propose a mechanism of biological control.
 
