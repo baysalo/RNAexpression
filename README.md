@@ -48,4 +48,4 @@ The script requires the following R packages:
 ## 📄 Citation
 
 If you use this code or data, please cite:
-> **[Your Name]*Ö.Baysal(2025). "Genomic and Transcriptomic Insights into the Bacterial Control of Fungal Pathogens." *[Orginalcode]*.
+> Ömür Baysal et al (2025). "Bacillus velezensis EU07 suppresses Fusarium graminearum via transcriptomic reprogramming." *[Orginalcode]*.
